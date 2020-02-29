@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Name: TRUONG THANH THAI
 major: Mechatronic Engineer
 Love code
 Can Tho university
+=======
+Name: TRUONG THANH THAI
+>>>>>>> parent of e601747... update second
